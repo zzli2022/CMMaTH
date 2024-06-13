@@ -1,0 +1,9 @@
+flash-attention==1.0.0
+torchdiffeq==0.2.3
+torchvision
+tornado
+tqdm==4.66.2
+tqdm-multiprocess==0.0.11
+transformers==4.37.2
+transformers-stream-generator==0.0.4
+treelib==1.7.0

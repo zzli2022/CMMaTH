@@ -1,0 +1,18 @@
+各个类别的分数：
+Flow Chart: 4.6
+Bar Chart: 3.3
+Scatter Plot: 6.6
+Line Plot: 8.7
+Fan Chart: 5.7
+LiDAR Chart: 0.0
+Visual-Table: 4.2
+Three View: 4.1
+Folded Image: 8.5
+Analytic Geometry: 7.2
+Solid Geometry: 4.8
+Plane Geometry: 8.5
+Venn diagram: 9.8
+Abtract Analogy diagram: 5.4
+UnKnown: 0.0
+
+总的分数: 5.7

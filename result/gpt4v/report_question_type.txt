@@ -1,0 +1,8 @@
+各个类别的分数：
+choice: 0.0
+free_form: 20.6
+single_choice: 33.9
+multi_choice: 14.8
+UnKnown: 0.0
+
+总的分数: 27.0
