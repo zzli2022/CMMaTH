@@ -86,7 +86,7 @@ if __name__ == '__main__':
     parser.add_argument("--prompt_type", default="general", choices=["general", "few-shot"], type=str) # prompt_type
     parser.add_argument("--output_json_file", default="result", type=str)
     parser.add_argument("--batch_size", default=5, type=int)
-    parser.add_argument("--weight_path", default="/mnt/pfs/jinfeng_team/MMGroup/lzz/code/ThemGPT/output_qwen_chat_instruct_7b", type=str)
+    parser.add_argument("--weight_path", default="./", type=str)
     parser.add_argument("--report_file_path", default="./{output_json_dir}/{model_name}/result_testclass_report.json", type=str)
     parser.add_argument("--from_local", default=True, type=bool)
     parser.add_argument("--eval_result_file", default="eval_result_testmini.json", type=str)

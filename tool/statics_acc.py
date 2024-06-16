@@ -447,7 +447,7 @@ def statics_complex_type_function(args):
         return all_data
 
     correct_data = read_json(input_json)
-    c_type_data = read_json_cmmath("/mnt/pfs/jinfeng_team/MMGroup/lzz/code/CMMaTH/cmmath_v3_ocr_complex.json")
+    c_type_data = read_json_cmmath("")
     c_map = {} # get map: id 2 c_type
     for data_item in c_type_data:
         # import pdb; pdb.set_trace()

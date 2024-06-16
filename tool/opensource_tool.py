@@ -11,7 +11,7 @@ from typing import Tuple
 from vllm import LLM, SamplingParams
 
 import sys
-sys.path.append("/mnt/pfs/jinfeng_team/MMGroup/lzz/code/CMMaTH/")
+sys.path.append("../")
 from tool.qwen_generation_utils import make_context, decode_tokens, get_stop_words_ids
 from prompt.judge_prompt import agent_judge_prompt
 
