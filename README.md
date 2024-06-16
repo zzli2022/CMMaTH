@@ -97,3 +97,7 @@ for model_name in "${model_names[@]}"; do
     echo "Current Model Name: $model_name"
 done
 ```
+
+## Dataset Explanation
+To facilitate the reviewers' understanding, we have released part of the CMMaTH dataset `./cmmath.json` and part of the instruction data `./instruction_cross_lingual_finetune.json` for GradeGPT.
+After the review process is completed, we will open source all the instruction data and the complete dataset.
